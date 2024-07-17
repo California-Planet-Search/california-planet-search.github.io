@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: The California Planet Search
-header: header.jpg
+header: 
+   image: /path/to/your/banner/image.jpgheader.jpg
