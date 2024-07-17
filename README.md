@@ -1,6 +1,6 @@
 # California Planet Search
 
-The **California Planet Search (CPS)** is a collaboration among astronomers who use the Keck Planet Finder (KPF) and HIRES spectrometers at the W. M. Keck Observatory and the Automated Planet Finder (APF) at Lick Observatory.  The governing document for CPS is titled ‘California Planet Search – Organization and Procedures’ and is publically available here.
+The **California Planet Search (CPS)** is a collaboration among astronomers who use the Keck Planet Finder (KPF) and HIRES spectrometers at the W. M. Keck Observatory and the Automated Planet Finder (APF) at Lick Observatory.  The governing document for CPS is titled ‘California Planet Search – Organization and Procedures’ and is publically available [here](pdf/CPS-Organization-and-Procedures.pdf).
 
 **Membership:** Astronomers who wish to join CPS should be in touch with members of the CPS Council: Fei Dai, BJ Fulton (Data Processing Lead), Sam Halverson, Andrew Howard (Lead), Howard Isaacson (Data Distribution Lead and Observer Trainer), Erik Petigura, Lauren Weiss.  The CPS document (linked above) describes the rights, responsibilities, and procedures for membership.
 
