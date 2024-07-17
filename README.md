@@ -1,3 +1,3 @@
-# california-planet-search.github.io
+# California Planet Search
 
 test
