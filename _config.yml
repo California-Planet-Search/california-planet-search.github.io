@@ -2,3 +2,8 @@ theme: jekyll-theme-cayman
 title: The California Planet Search
 header: 
    image: header.jpg
+
+
+# Custom CSS
+css:
+  - /assets/css/custom.css
