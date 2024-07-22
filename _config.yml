@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
 title: The California Planet Search
+favicon: favicon.ico
 header: 
    image: header.jpg
-
 
 # Custom CSS
 css:
