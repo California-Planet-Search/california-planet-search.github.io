@@ -5,10 +5,10 @@ The **California Planet Search (CPS)** is a collaboration among astronomers who 
 **Membership:** Astronomers who wish to join CPS should be in touch with members of the CPS Council: Fei Dai, BJ Fulton (Data Processing Lead), Sam Halverson, Andrew Howard (Lead), Howard Isaacson (Data Distribution Lead and Observer Trainer), Erik Petigura, Lauren Weiss (Council Chair).  The CPS document (linked above) describes the rights, responsibilities, and procedures for membership.
 
 ***Participating Scientists***
-Fei Dai, BJ Fulton, Sam Halverson, Andrew Howard, Dan Huber, Howard Isaacson, Stephen Kane, Bruce Macintosh, Erik Petigura, Paul Robertson, Lauren Weiss, Samuel Yee
+Fei Dai, BJ Fulton, Sam Halverson, Andrew Howard, Dan Huber, Howard Isaacson, Stephen Kane, Bruce Macintosh, Erik Petigura, Paul Robertson, Lauren Weiss, Samuel Yee, Lea Hirsch, Malena Rice
 
 ***Affiliates***
-Aaron Householder, Jared Kolecki, Alex Polanski, Pranav Premnath, Claire Rogers, Ryan Rubenzahl, Alex Thomas, Emma Turtleboom, Judah Van Zandt
+Aaron Householder, Jared Kolecki, Alex Polanski, Pranav Premnath, Claire Rogers, Ryan Rubenzahl, Alex Thomas, Emma Turtleboom, Judah Van Zandt, Jingwen Zhang
 
 **Writing an Observing Proposal with CPS Collaboration:** If you are interested in proposing to collaborate with the California Planet Search on cadence observations with KPF or HIRES, please fill out this form*. Full consideration will be given to requests submitted by Sept. 18, 2023 (for 2024A proposals) though later requests will be reviewed.  (NASA and other proposals due before then should submit responses using the form as soon as possible.)  Collaboration with CPS is not required to use these instruments.  Technical information about KPF is available on WMKO’s website. See also the Exposure Time Calculator page and the associated Github code.  See these slides from a breakout session at the 2023 Keck Science Meeting for information about KPF’s current performance.  Time permitting, CPS can provide a few sentence description of KPF’s performance and expectations for queue operations; this can be provided or proposals that have been submitted using the above form and endorsed by CPS.  For HIRES, CPS expects to support a minimal queue in 2024A (perhaps one night per month), but this will depend on the number of successful proposals.
 
