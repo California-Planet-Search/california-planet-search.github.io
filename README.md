@@ -5,7 +5,7 @@ The **California Planet Search (CPS)** is a collaboration among astronomers who 
 **Membership:** Astronomers who wish to join CPS should be in touch with members of the CPS Council: Fei Dai, BJ Fulton (Data Processing Lead), Sam Halverson, Andrew Howard (Lead), Howard Isaacson (Data Distribution Lead and Observer Trainer), Erik Petigura, Lauren Weiss (Council Chair).  The CPS document (linked above) describes the rights, responsibilities, and procedures for membership.
 
 ***Participating Scientists***
-Fei Dai, BJ Fulton, Sam Halverson, Andrew Howard, Dan Huber, Howard Isaacson, Stephen Kane, Bruce Macintosh, Erik Petigura, Paul Robertson, Lauren Weiss, Samuel Yee, Lea Hirsch, Malena Rice
+Fei Dai, BJ Fulton, Sam Halverson, Andrew Howard, Dan Huber, Howard Isaacson, Stephen Kane, Bruce Macintosh, Erik Petigura, Paul Robertson, Lauren Weiss, Samuel Yee, Lea Hirsch, Malena Rice, Adam Benjamin Langeveld, Theron Carmichael
 
 ***Affiliates***
 Aaron Householder, Jared Kolecki, Alex Polanski, Pranav Premnath, Claire Rogers, Ryan Rubenzahl, Alex Thomas, Emma Turtleboom, Judah Van Zandt, Jingwen Zhang
