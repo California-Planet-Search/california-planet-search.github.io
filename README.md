@@ -3,7 +3,7 @@
 The **California Planet Search (CPS)** is a collaboration among astronomers who use the Keck Planet Finder (KPF) and HIRES spectrometers at the W. M. Keck Observatory and the Automated Planet Finder (APF) at Lick Observatory.  The governing document for CPS is titled ‘California Planet Search – Organization and Procedures’ and is publically available [here](pdf/CPS-Organization-and-Procedures.pdf).  Questions can be sent to:
 cps.keck@gmail.com
 
-**Membership:** Astronomers who wish to join CPS should be in touch with members of the CPS Council: Fei Dai, BJ Fulton (Data Processing Lead), Sam Halverson, Andrew Howard (Lead), Howard Isaacson (Data Distribution Lead and Observer Trainer), Erik Petigura, Lauren Weiss (Council Chair).  The CPS document (linked above) describes the rights, responsibilities, and procedures for membership.
+**Membership:** Astronomers who wish to join CPS should be in touch with members of the CPS Council: Fei Dai (fdai@hawaii.edu), BJ Fulton (Data Processing Lead, bjfulton@ipac.caltech.edu), Sam Halverson (samuel.halverson@jpl.nasa.gov), Andrew Howard (Lead, ahoward@caltech.edu), Howard Isaacson (Data Distribution Lead and Observer Trainer, hisaacson@berkeley.edu), Erik Petigura (petigura@astro.ucla.edu), Lauren Weiss (Council Chair, lweiss4@nd.edu), Josh Winn (Council Member at Large, jnwinn@princeton.edu).  The CPS document (linked above) describes the rights, responsibilities, and procedures for membership.
 
 ***Participating Scientists***
 Fei Dai, BJ Fulton, Sam Halverson, Andrew Howard, Dan Huber, Howard Isaacson, Stephen Kane, Bruce Macintosh, Erik Petigura, Paul Robertson, Lauren Weiss, Samuel Yee, Lea Hirsch, Malena Rice, Adam Benjamin Langeveld, Theron Carmichael, Steven Giacalone, Tansu Daylan, Gummi Stefansson.
