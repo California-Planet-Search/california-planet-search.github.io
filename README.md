@@ -15,7 +15,7 @@ Fei Dai, BJ Fulton, Sam Halverson, Andrew Howard, Dan Huber, Howard Isaacson, St
 Aaron Householder, Jared Kolecki, Alex Polanski, Pranav Premnath, Claire Rogers, Ryan Rubenzahl, Alex Thomas, Emma Turtleboom, Judah Van Zandt, Jingwen Zhang, Claire Geneser, Marie Tagliavia, Rena Lee, Nick Saunders, Sabrina Weldon.
 
 **How do I join?:** The [CPS document](pdf/CPS-Organization-and-Procedures.pdf) describes the rights, responsibilities, and procedures for membership.
-1. Send the completed form can be sent to the membership chair (Jingwen Zhang, jwzhang@ucsb.edu).
+1. Send the completed form to the Membership Chair (Jingwen Zhang, jwzhang@ucsb.edu).
 2. Members will be given access, as needed, to internal slack channel to facilitate communication, and collection of data and distribution of data.  Contact the CPS Lead (@ahoward@caltech.edu) if you think the slack access you need is different from what you have.
 3. Members will be given access, as needed, to [Jump](https://jump.caltech.edu/) to facilitate curation and distribution of data.  Contact the CPS Council if you think the Jump access you need is different from what you have.
 
