@@ -12,7 +12,7 @@ Aaron Householder, Jared Kolecki, Alex Polanski, Pranav Premnath, Claire Rogers,
 
 **How do I join?:** The [CPS document](pdf/CPS-Organization-and-Procedures.pdf) describes the rights, responsibilities, and procedures for membership.
 1. Send a signed copy of the CPS document (complete with your expected role, PI sponspor, and dates of membership)  to the Membership Chair (Jingwen Zhang, jwzhang@ucsb.edu).
-2. Members will be given access, as needed, to internal slack channel to facilitate communication, and collection of data and distribution of data.  Contact the CPS Lead (@ahoward@caltech.edu) if you think the slack access you need is different from what you have.
+2. Members will be given access, as needed, to internal slack channel to facilitate communication, and collection of data and distribution of data.  Contact the CPS Lead (ahoward@caltech.edu) if you think the slack access you need is different from what you have.
 3. Members will be given access, as needed, to [Jump](https://jump.caltech.edu/) to facilitate curation and distribution of data.  Contact the CPS Council if you think the Jump access you need is different from what you have.
 
 **I want to pool telescope time with CPS this semester to optimize my science; what should I do?** If you are interested in proposing to collaborate with the California Planet Search on cadence observations with KPF, HIRES, or APf, please fill out this  [FORM](https://docs.google.com/forms/d/e/1FAIpQLSdgYTqky5qGQwc_mayDv4HhL6MOenY9S5OryFNDusBHAlOCOg/viewform)[^2]
