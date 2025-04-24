@@ -5,7 +5,7 @@ The **California Planet Search (CPS)** is an organization of astronomers that fa
 **Who is part of CPS already?**
 
 ***Participating Scientists***
-Fei Dai, BJ Fulton, Sam Halverson, Andrew Howard, Dan Huber, Howard Isaacson, Stephen Kane, Bruce Macintosh, Erik Petigura, Paul Robertson, Lauren Weiss, Samuel Yee, Lea Hirsch, Malena Rice, Adam Benjamin Langeveld, Theron Carmichael, Steven Giacalone, Tansu Daylan, Gummi Stefansson, Kyle Franson
+Fei Dai, BJ Fulton, Sam Halverson, Andrew Howard, Dan Huber, Howard Isaacson, Stephen Kane, Bruce Macintosh, Erik Petigura, Paul Robertson, Lauren Weiss, Samuel Yee, Lea Hirsch, Malena Rice, Adam Benjamin Langeveld, Theron Carmichael, Steven Giacalone, Tansu Daylan, Gummi Stefansson, Kyle Franson, Tom Esposito, Lauren Sgro
 
 ***Affiliates***
 Aaron Householder, Jared Kolecki, Alex Polanski, Pranav Premnath, Claire Rogers, Ryan Rubenzahl, Alex Thomas, Emma Turtleboom, Judah Van Zandt, Jingwen Zhang, Marie Tagliavia, Rena Lee, Nick Saunders, Sabrina Weldon, David Shaw. 
