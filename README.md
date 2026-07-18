@@ -5,10 +5,10 @@ The **California Planet Search (CPS)** is an organization of astronomers that fa
 **Who is part of CPS already?**
 
 ***Participating Scientists***
-Fei Dai, BJ Fulton, Sam Halverson, Andrew Howard, Dan Huber, Howard Isaacson, Stephen Kane, Bruce Macintosh, Erik Petigura, Paul Robertson, Lauren Weiss, Joshua Winn, Samuel Yee, Lea Hirsch, Malena Rice, Adam Benjamin Langeveld, Theron Carmichael, Steven Giacalone, Tansu Daylan, Gummi Stefansson, Kyle Franson, Tom Esposito, Lauren Sgro, Julie Inglis, Kirsty Taggart, Leo Alcorn, Juan Ignacio Espinoza-Retamal, Josh Simon, Jack Lubin
+Fei Dai, BJ Fulton, Sam Halverson, Andrew Howard, Dan Huber, Howard Isaacson, Stephen Kane, Bruce Macintosh, Erik Petigura, Paul Robertson, Lauren Weiss, Joshua Winn, Samuel Yee, Lea Hirsch, Malena Rice, Adam Benjamin Langeveld, Theron Carmichael, Steven Giacalone, Tansu Daylan, Gummi Stefansson, Kyle Franson, Tom Esposito, Lauren Sgro, Julie Inglis, Kirsty Taggart, Leo Alcorn, Juan Ignacio Espinoza-Retamal, Josh Simon, Jack Lubin, Sukanya Chakrabarti
 
 ***Affiliates***
-Aaron Householder, Jared Kolecki, Alex Polanski, Pranav Premnath, Claire Rogers, Ryan Rubenzahl, Alex Thomas, Emma Turtleboom, Judah Van Zandt, Jingwen Zhang, Marie Tagliavia, Rena Lee, Nick Saunders, Sabrina Weldon, David Shaw, Veronika Voss, Patrick Mallaney, Ryan Foley, Pedro Figueria, Jack Foley, Elina Zhang, Luke Handley, Emma Mclntyre
+Aaron Householder, Jared Kolecki, Alex Polanski, Pranav Premnath, Claire Rogers, Ryan Rubenzahl, Alex Thomas, Emma Turtleboom, Judah Van Zandt, Jingwen Zhang, Marie Tagliavia, Rena Lee, Nick Saunders, Sabrina Weldon, David Shaw, Veronika Voss, Patrick Mallaney, Ryan Foley, Pedro Figueria, Jack Foley, Elina Zhang, Luke Handley, Emma Mclntyre, Ryan Purviance , Caleb Lammers, Jack Wagner, Tran Quang
 
 **How do I join?:** The [CPS document](pdf/CPS-Organization-and-Procedures.pdf) describes the rights, responsibilities, and procedures for membership.
 1. Send a signed copy of the CPS document (complete with your expected role, PI sponspor, and dates of membership)  to the Membership Chair (Jingwen Zhang, jwzhang@ucsb.edu).
